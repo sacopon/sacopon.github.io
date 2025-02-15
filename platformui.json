@@ -1,0 +1,92 @@
+{"frames": {
+
+"a_button_off.png":
+{
+	"frame": {"x":143,"y":799,"w":138,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":138,"h":110},
+	"sourceSize": {"w":160,"h":160}
+},
+"a_button_on.png":
+{
+	"frame": {"x":143,"y":911,"w":136,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":30,"w":136,"h":105},
+	"sourceSize": {"w":160,"h":160}
+},
+"button.png":
+{
+	"frame": {"x":1,"y":799,"w":140,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":137},
+	"sourceSize": {"w":140,"h":137}
+},
+"cursor.png":
+{
+	"frame": {"x":1,"y":1,"w":274,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":280},
+	"sourceSize": {"w":274,"h":280}
+},
+"cursor_down.png":
+{
+	"frame": {"x":1,"y":283,"w":241,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":241,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"cursor_left.png":
+{
+	"frame": {"x":1,"y":541,"w":241,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":241,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"cursor_neutral.png":
+{
+	"frame": {"x":244,"y":283,"w":241,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":241,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"cursor_right.png":
+{
+	"frame": {"x":244,"y":541,"w":241,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":241,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"cursor_up.png":
+{
+	"frame": {"x":277,"y":1,"w":241,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":241,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"dot.png":
+{
+	"frame": {"x":1,"y":938,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1,"h":1}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "platformui.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c0bf5b32f70e1b325026a07358285a37:9a899268a30bd75012076b7926872995:0d5a2662a12fec8860f9875589d9eaec$"
+}
+}
